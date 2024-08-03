@@ -25,6 +25,7 @@ The objective of this project is to utilize PowerBI to create insightful visuali
 The data used in this project is from a sample Retail Analysis dataset. Below is the description of the tables and their fields:
 <details>
 <summary> Data Interpret Table </summary>
+
 |  Table  | Frield Name  |Description                         |
 |--------:|--------------|------------------------------------|
 |Districts| DistrictID   | Mã đại lý                          |
@@ -46,6 +47,7 @@ The data used in this project is from a sample Retail Analysis dataset. Below is
 |         | ScenarioID                    | =1 là năm hiện hành, =2 là năm trước |
 |Time     | Period       | Tháng (bằng số)      |
 |         | FiscalMonth  | Tháng (bằng chữ)     |
+
 </details>
 
 ### Steps and Visualizations
