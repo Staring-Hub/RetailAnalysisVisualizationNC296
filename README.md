@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋🏻
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="githubBanner/DarkModeBanner.png">
  <source media="(prefers-color-scheme: light)" srcset="githubBanner/LightModeBanner.png">
